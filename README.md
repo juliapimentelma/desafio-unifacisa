@@ -28,7 +28,7 @@ Os modelos utilizados foram :
 - Autoencoders / Filtragem Colaborativa para recomendação
 - Algoritmo Apriori para regras de associação
 
-A para a avaliação desses modelos foram métricas como **recall, precisão, matriz de confusão RMSE, MAE, R², e curva ROC-AUC.**
+A para a avaliação desses modelos foram métricas como **recall, precisão, matriz de confusão, RMSE, MAE, R², e curva ROC-AUC.**
 
 ## Bibliotecas Principais
 
