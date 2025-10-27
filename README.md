@@ -14,7 +14,7 @@ Resolução das Questões de Machine Learning (Classificação, Regressão e Ass
 
 ## Descrição
 Este repositório é destinado a aplicação pratica dos conhecimentos passados em aula, na disciplina de Dados e IA do professor Roberto Ricardo (UniFacisa).
-Nele os alunos Júlia Pimentel e Tawan Barbosa, desenvolveram práticas de analise de dados usando Inteligencia Artificial para teste, tratamento e e analise de dados, sendo eles gerados de forma artificial ou por import de de banco de dados público como Kaggle, Scikit-Learn, Movie Lens, entre outros. 
+Nele os alunos Júlia Pimentel e Tawan Barbosa, desenvolveram práticas de análise de dados usando Inteligência Artificial para teste, tratamento e e análise de dados, sendo eles gerados de forma artificial ou por import de bancos de dados públicos como Kaggle, Scikit-Learn, Movie Lens, entre outros. 
 
 
 Os modelos utilizados foram :
