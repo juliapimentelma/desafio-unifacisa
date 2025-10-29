@@ -14,7 +14,9 @@ Resolução das Questões de Machine Learning (Classificação, Regressão e Ass
 
 ## Descrição
 Este repositório é destinado a aplicação pratica dos conhecimentos passados em aula, na disciplina de Dados e IA do professor Roberto Ricardo (UniFacisa).
-Nele os alunos Júlia Pimentel e Tawan Barbosa, desenvolveram práticas de análise de dados usando Inteligência Artificial para teste, tratamento e e análise de dados, sendo eles gerados de forma artificial ou por import de bancos de dados públicos como Kaggle, Scikit-Learn, Movie Lens, entre outros. 
+Nele os alunos Júlia Pimentel e Tawan Barbosa, desenvolveram práticas de análise de dados usando Inteligência Artificial para teste, tratamento e e análise de dados, sendo eles gerados de forma artificial ou por import de bancos de dados públicos como Kaggle, Scikit-Learn, Movie Lens, entre outros.
+
+Com total de 6 questões feitas em conjunto, elas vão da questão 5 a 10.
 
 
 Os modelos utilizados foram :
@@ -28,7 +30,7 @@ Os modelos utilizados foram :
 - Autoencoders / Filtragem Colaborativa para recomendação
 - Algoritmo Apriori para regras de associação
 
-A para a avaliação desses modelos foram métricas como **recall, precisão, matriz de confusão, RMSE, MAE, R², e curva ROC-AUC.**
+Para avaliação desses modelos foram utilizadas métricas como **recall, precisão, matriz de confusão, RMSE, MAE, R², e curva ROC-AUC.**
 
 ## Bibliotecas Principais
 
@@ -46,10 +48,8 @@ A para a avaliação desses modelos foram métricas como **recall, precisão, ma
 
 Os notebooks das questões possuem um certo nivel de documentação mas atente-se para a ordem de execução e as bibliotecas necessárias.
 
-## Resultados e Analises
-Com total de 6 questões feitas em conjunto, elas vão da questão 5 a 10.
-Segue a baixo a apresentação compartilhada que contém os resumos, resultados e analises feitas diante das exigencias solicitadas a cada caso:
-
+## Códigos e Insights
+Segue a baixo a apresentação compartilhada que contém os resumos, resultados e analises feitas diante do que foi requisitado pelas questões.
 <p align="center">
   <a href="https://www.canva.com/design/DAG1I9Gxx8s/U4OItvIdnb7knUW0DWk2Bw/edit?utm_content=DAG1I9Gxx8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Acessar%20Apresentação%20Canvas-139b82?style=for-the-badge&logo=canva&logoColor=white" alt="Acessar Apresentação no Canva">
