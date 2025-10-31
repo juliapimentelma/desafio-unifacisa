@@ -48,6 +48,8 @@ Para avaliação desses modelos foram utilizadas métricas como **recall, precis
 
 Os notebooks das questões possuem um certo nivel de documentação mas atente-se para a ordem de execução e as bibliotecas necessárias.
 
+#### Na Questão 9 se o usuário for realizar uma nova execução do notebook, é aconselhavel ativar a opção de GPU do Kaggle na aba Settings > Accelerator.
+
 ## Códigos e Insights
 Segue a baixo a apresentação compartilhada que contém os resumos, resultados e analises feitas diante do que foi requisitado pelas questões.
 <p align="center">
